@@ -1,1 +1,2 @@
-Mi primer archivo para aprender git
+Mi primer archivo para aprender y practicar git
+el segundo cambio en el archivo
