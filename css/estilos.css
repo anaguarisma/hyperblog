@@ -15,4 +15,13 @@ body
 #container h1 
 {
     font-size: 20px;
+    color: aliceblue;
+    background-color: aqua;
+}
+
+#cabecera
+{
+    background-color: aquamarine;
+    color: black;
+    box-shadow: 1em;
 }
