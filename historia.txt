@@ -1,0 +1,4 @@
+Mi primer archivo para aprender y practicar git
+el segundo cambio en el archivo
+Multiples curriculums, multiples oportunidades
+Voy a agregar otra linea pero no estoy segura para que
